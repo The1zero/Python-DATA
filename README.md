@@ -4,6 +4,7 @@ Python para la ingenieria de datos.
 - Lógica empresarial personalizada
 - Almacenamiento y recuperación de datos
 - Aprendizaje automático
+
 Uso de:
 - Pandas 
 - Apache Airflow
