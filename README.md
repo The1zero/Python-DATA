@@ -11,3 +11,4 @@ Uso de:
 - Apache Airflow
 - Pyparsing 
 - TensorFlow
+- Numpy
